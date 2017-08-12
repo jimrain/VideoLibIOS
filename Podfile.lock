@@ -1,0 +1,12 @@
+PODS:
+  - Brightcove-Player-SDK/dynamic (5.3.0)
+
+DEPENDENCIES:
+  - Brightcove-Player-SDK/dynamic
+
+SPEC CHECKSUMS:
+  Brightcove-Player-SDK: 3704c1920749635be4eb8c0e8a4751a86226c4ef
+
+PODFILE CHECKSUM: 4366b61b0849923ea84ab33d02d868dc2f54ff96
+
+COCOAPODS: 1.1.1
